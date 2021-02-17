@@ -4,10 +4,23 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>API Demo.xcscheme_^#shared#^_</key>
+		<key>WeatherApp.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E6487113253EF5AF00396FC5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E6487129253EF5B200396FC5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

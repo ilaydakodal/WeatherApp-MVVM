@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:API Demo.xcodeproj">
+      location = "self:/Users/ikodal/Desktop/WeatherApp-MVVM/WeatherApp.xcodeproj">
    </FileRef>
 </Workspace>
