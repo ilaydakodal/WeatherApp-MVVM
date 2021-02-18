@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5A1F4C8A-7DDB-4046-B359-B3EDF3A8AB00</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5A1F4C8A-7DDB-4046-B359-B3EDF3A8AB00.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeatherApp</string>
+			<key>timeStartedRecording</key>
+			<real>635274050.33793998</real>
+			<key>timeStoppedRecording</key>
+			<real>635274093.89440703</real>
+			<key>title</key>
+			<string>Debug WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5A1F4C8A-7DDB-4046-B359-B3EDF3A8AB00</string>
+		</dict>
+		<key>C87AA771-2210-4D20-BF34-BD26330FEF52</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C87AA771-2210-4D20-BF34-BD26330FEF52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeatherApp</string>
+			<key>timeStartedRecording</key>
+			<real>635274169.91119695</real>
+			<key>timeStoppedRecording</key>
+			<real>635274330.95273495</real>
+			<key>title</key>
+			<string>Debug WeatherApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C87AA771-2210-4D20-BF34-BD26330FEF52</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

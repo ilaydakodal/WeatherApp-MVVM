@@ -103,6 +103,7 @@
 		E6487116253EF5AF00396FC5 /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
+				E6487125253EF5B200396FC5 /* Info.plist */,
 				E68627E52578C02700C3527D /* Commons */,
 				E64A2A7E255A8CC10062C577 /* Cotrollers */,
 				E64A2A78255A7FB00062C577 /* Network */,
@@ -167,7 +168,6 @@
 			children = (
 				E6487117253EF5AF00396FC5 /* AppDelegate.swift */,
 				E6487120253EF5B200396FC5 /* Assets.xcassets */,
-				E6487125253EF5B200396FC5 /* Info.plist */,
 				E6980F5C25DAD1D3006A2FCD /* LaunchScreen.storyboard */,
 				E648711D253EF5AF00396FC5 /* Main.storyboard */,
 				E6487119253EF5AF00396FC5 /* SceneDelegate.swift */,
@@ -374,6 +374,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -448,7 +449,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "API Demo/Info.plist";
+				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -465,7 +466,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "API Demo/Info.plist";
+				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

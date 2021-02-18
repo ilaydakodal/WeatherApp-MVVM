@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "f499f78af6d8948957c29d25c64b31e5"
+build_time: [1613581364, 226942000]
+inputs:
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Cotrollers/AnimationViewController.swift": [1613553324, 402029360]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Network/NetworkManager.swift": [1613391196, 511343220]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Commons/Extensions/UIButton+Styling.swift": [1613416906, 764557420]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Network/WeatherResponse.swift": [1613553337, 835788934]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Commons/Extensions/UIViewController+ActivityIndicator.swift": [1613553497, 920683018]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Commons/Extensions/Double+Format.swift": [1613118351, 232693825]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Cotrollers/WeatherViewController.swift": [1613538971, 988435896]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Cotrollers/WeatherViewModel.swift": [1613391196, 537362825]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Commons/Extensions/UIImageView+URL .swift": [1613121000, 979214843]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Network/Config.swift": [1613385167, 44058153]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Commons/Extensions/UIViewController+Additions.swift": [1613386576, 378432361]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Supporting Files/AppDelegate.swift": [1613550475, 333416925]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Commons/Extensions/UIImageView+Styling.swift": [1607367331, 557281672]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Network/ErrorResponse.swift": [1613385960, 278536473]
+  "/Users/ikodal/Desktop/WeatherApp/WeatherApp/Supporting Files/SceneDelegate.swift": [1603190319, 243114458]
